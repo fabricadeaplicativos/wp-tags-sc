@@ -3,6 +3,7 @@
  * Plugin Name: Raw tags as ShortCodes
  * Description: Allows to put some tags on WP with short codes
  * Author: Fábrica de Aplicativos
+ * Url: https://github.com/fabricadeaplicativos/wp-tags-sc
 **/
 
 /**
