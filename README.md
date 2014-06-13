@@ -29,6 +29,8 @@ will become
 
 All shortcodes support the id, class and style attributes. Other attributes that are unique to the img and iframe are supported (src, alt, ...)
 
+If you need something that is outside the normal attributes, or not supported by the plugin you can use the attrs option.
+It will just output everthing that you give to it.
 
 `[div attrs='data-opt="OPTION!" data-opt1="value1"']...[/div]`
 
