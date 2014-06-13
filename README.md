@@ -36,5 +36,5 @@ It will just output everthing that you give to it.
 
 will become:
 
-`<div attrs='data-opt="OPTION!" data-opt1="value1">...</div>`
+`<div data-opt="OPTION!" data-opt1="value1">...</div>`
 
